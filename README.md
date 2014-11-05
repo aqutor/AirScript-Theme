@@ -1,4 +1,4 @@
-AirScript-Theme（Version：1.2.6）
+AirScript-Theme（Version:1.2.6）
 ===============
 
 A theme for Typecho.
