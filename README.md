@@ -1,6 +1,7 @@
 AirScript-Theme（Version:1.2.7）
 ===============
-For Chinese Version please visit https://www.airscr.com/archives/823.html .
+To view the theme please visit https://www.airscr.com/ .
+For Chinese version please visit https://www.airscr.com/archives/823.html .
 A theme for Typecho.
 It is a theme based on the default theme of Typecho 0.9 by AirScript.
 The adaptive theme is compatible with SSL.
@@ -18,7 +19,7 @@ Update log:
 Version 1.2.7 (Updated on Nov. 8th,2014):
 1. Optimize SSL Experience
    Use local content to replace the content linked to airscr.com.
-2. Add copyright information.
+2. Add theme copyright information.
 3. More things are waiting for you to discover.
 
 Version 1.2.6 (Updated on Nov. 5th,2014):
