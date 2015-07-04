@@ -30,11 +30,16 @@ Instructions:
 Update log:
 
 Version 1.2.9 (Updated on Jul. 7th,2015):
+
 1. Removing dead links to reduce the use of calling functions. 
+
 2. Fix some other bugs.
 
+
 Version 1.2.8 (Updated on Apr. 4th,2015):
+
 It's not disclose.
+
 
 Version 1.2.7 (Updated on Nov. 8th,2014):
 
