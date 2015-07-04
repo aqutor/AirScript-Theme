@@ -1,4 +1,4 @@
-AirScript-Theme（Version:1.2.7）
+AirScript-Theme（Version:1.2.9）
 ===============
 To view the theme please visit https://www.airscr.com/ .
 
@@ -29,15 +29,22 @@ Instructions:
 
 Update log:
 
+Version 1.2.9 (Updated on Jul. 7th,2015):
+1. Removing dead links to reduce the use of calling functions. 
+2. Fix some other bugs.
+
+Version 1.2.8 (Updated on Apr. 4th,2015):
+It's not disclose.
+
 Version 1.2.7 (Updated on Nov. 8th,2014):
 
 1. Optimize SSL Experience
 
-   Use local content to replace the content linked to airscr.com.
+   Using local content to replace the content which is linked to airscr.com.
    
 2. Add theme copyright information.
 
-3. More things are waiting for you to discover.
+3. More changes are waiting for your discovery.
 
 
 Version 1.2.6 (Updated on Nov. 5th,2014):
